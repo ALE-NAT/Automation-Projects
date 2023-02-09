@@ -4,7 +4,7 @@ A collection of automation projects on ALE's OmniSwitch, OmniVista and Stellar p
 List of projects:
 
 ---------
-Project 1
+Project 01
 
 Name :      Check Camera
 
@@ -15,7 +15,7 @@ Use case:   To check IP cameras in the network and reset the POE ports of the ca
 Application:Implemented in the filed
 
 ---------
-Project 2
+Project 02
 
 Name :      SFTP Download Tool 
 
