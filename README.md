@@ -41,7 +41,7 @@ Project 04
 
 Name :      OmniVista CLI Script Log Downloader 
 
-Type:       Python
+Type:       Python OV API
 
 Use case:   Python Script which connects to OmniVista and dowmloads a list of CLI-script log files, then it selects specific logs and download all the selected logs as a zip file.
 
@@ -52,7 +52,7 @@ Project 05
 
 Name :      OmniVista LLDP Link Cloner 
 
-Type:       Python
+Type:       Python OV API
 
 Use case:   Python script that connects to OV and discovers the LLDP links and clone them to manual links.
 
@@ -63,8 +63,31 @@ Project 06
 
 Name :      POE Toggler 
 
-Type:       Python
+Type:       Python AOS API
 
 Use case:   Python script to toggle POE ports on an AOS switch
 
 Application:Customer case
+
+---------
+Project 07
+
+Name :      Stellar Client Info Extractor 
+
+Type:       Python OV API
+
+Use case:   Python script to to extract and export OmniAcess Stellar Access Points data
+
+Application:Customer case
+
+---------
+Project 08
+
+Name :      Pscan  -Unused Port Scanner 
+
+Type:       Python OV API
+
+Use case:   Python tool to scan an ALE network for inactive ports and based on the defined criteria, Admin down the ports that have been inactive for specified number of days.
+
+Application:Customer case
+
