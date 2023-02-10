@@ -582,7 +582,7 @@ def menu_start():
     print("_________ Welcome To Pscan Python Port Scanner   _________")
     print("_________              Ver 0.4 Dev               _________")
     print("_________         ALE System Engineering Team    _________")
-    print("_________ Support:kaveh.majidi@al-enterprise.com _________")
+    print("_________         Support:kaveh majidi @ ALE     _________")
     print("__________________________________________________________")
     main_menu()
 
