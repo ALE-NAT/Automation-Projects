@@ -83,7 +83,7 @@ Application:Customer case
 ---------
 Project 08
 
-Name :      Pscan  -Unused Port Scanner 
+Name :      Pscan Unused Port Scanner 
 
 Type:       Python OV API
 
@@ -91,3 +91,13 @@ Use case:   Python tool to scan an ALE network for inactive ports and based on t
 
 Application:Customer case
 
+---------
+Project 09
+
+Name :      OSFAR OmniSwitch 8.x Factory Reset Script 
+
+Type:       Bash Script
+
+Use case:   Bash Script to factory reset OmniSwitch.
+
+Application:Customer case
