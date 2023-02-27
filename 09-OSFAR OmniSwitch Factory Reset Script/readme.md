@@ -42,8 +42,8 @@ Step 4
 
 Execute the bash script using ./osfar.sh
 
-The script will prompt twice for confirmation and then wait for five seconds before execution which give user enough time to cancel the execution using Control-c.
-Some file/directory not found warnings message are normal and expected during the execution. 
+The script will prompt twice for confirmation and then wait for five seconds before execution which gives user enough time to cancel the execution using Control-c.
+Some file/directory not found warning messages are normal and expected during the execution. 
 
 
 # License
