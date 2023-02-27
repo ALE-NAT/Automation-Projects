@@ -32,7 +32,7 @@ Download the script from the GitHub page. We recommend downloading the osfar.zip
 
 Step 2
    
-copy osfar.sh on the /flash directory of the OmniSwitch
+Copy osfar.sh on the /flash directory of the OmniSwitch. This can be done using FTP or by using a USB memory stick.
 
 Step 3
 
