@@ -28,8 +28,7 @@ Do NOT execute "write-memory" after executing the script and before rebooting th
 
 Step 1
 
-Download the script from the GitHub page. We recommend downloading the osfar.zip file and extracting the script. If you copy/paste the script directly from the GitHub
-page and save it in a Windows machine, the script file will be saved with extra carriage return character at the end of each line. This will prevent the script from execution on the switch.
+Download the script from the GitHub page. We recommend downloading the osfar.zip file (On Github page, click on osfar.zip and use the Download button on next page) and then extracting the script. If you copy/paste the script text directly from the GitHub page and save it in a Windows machine, the script file will be saved with extra carriage return character at the end of each line. This will prevent the script from execution on the switch.
 
 Step 2
    
