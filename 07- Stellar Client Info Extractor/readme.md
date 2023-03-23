@@ -5,7 +5,7 @@ Developed by Kaveh Majidi @ ALE
 
 STEPS is an API Interface to ALE's OmniVista NMS to extract and export OmniAcess Stellar Access Points data.
 This module is developed to pull APs and Live Clients from OmniVisa and export them as a csv file.
-The settings for the script is saved in steps_config.cfg which inclides OmniVista credentials and the desired fields that needs to be compiled into csv file. Please refere to steps_config.cfg for more information.
+The settings for the script is saved in steps_config.cfg which includes OmniVista credentials and the desired fields that needs to be compiled into csv file. Please refere to steps_config.cfg for more information.
  
 
 # Version
