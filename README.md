@@ -101,3 +101,15 @@ Type:       Bash Script
 Use case:   Bash Script to factory reset OmniSwitch.
 
 Application:Customer case
+
+---------
+Project 10
+
+Name :      Custom Captive Portal for OmniVista 
+
+Type:       HTML, CSS, JavaScript (AngularJS), OmniVista Captive Portal
+
+Use case:   A customizable captive portal for OmniVista, allowing businesses to personalize the login page for guest Wi-Fi access. 
+            Includes custom fields, validations, and branding options.
+
+Application:Customer case
